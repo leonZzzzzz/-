@@ -1,0 +1,5 @@
+src/modules/school/**
+.DS_Store
+node_modules
+dist
+.eslintrc.js
